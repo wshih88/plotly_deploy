@@ -4,9 +4,5 @@ Using Plotly, we created a dashboard for Rosa to visualize data collected for th
 
 Further analyses is suggest to separate by geographical location as the United States varies in climate and environment from state to state.
 
-Resources:
-VS Code
-Chrome
-Git Bash
-plotly.com
-w3schools.com
+Resources:VS Code, Chrome, Git Bash, plotly.com, w3schools.com
+
